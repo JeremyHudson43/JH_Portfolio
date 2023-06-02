@@ -4,7 +4,7 @@ Welcome to my GitHub! I have created various programs to both enjoy and enhance 
 ## Python
 
 ### Interactive Brokers (IBKR) Stock Trading Bot
-`IBKR Stock Trading Bot` - This is my latest project: a Python-based trading bot that connects with the Interactive Brokers' API. The bot uses a mean reversion indicator called Connor's RSI in two different modes:
+`IBKR Auto Trader` - This is my latest project: a Python-based trading bot that connects with the Interactive Brokers' API. The bot uses a mean reversion indicator called Connor's RSI in two different modes:
 
 1.) A daily timeframe for individual stocks, performing buys at market open and sells before market close.
 
