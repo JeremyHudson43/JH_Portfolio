@@ -1,24 +1,24 @@
 # Jeremy's Portfolio
-Hello, and welcome to my GitHub. I've written the following programs for fun and to practice my programming skills. My work is organized by folder, please read below for more information. 
+Welcome to my GitHub! I have created various programs to both enjoy and enhance my programming skills. You can find my work organized in different folders, as explained below.
 
 ## Python
 
 ### Interactive Brokers (IBKR) Stock Trading Bot
-``IBKR Stock Trading Bot`` - My most recent project: A Python-based trading bot that interacts with Interactive Brokers' API. The bot utilizes a mean reversion indicator called Connor's RSI, using one of two choices:
+`IBKR Stock Trading Bot` - This is my latest project: a Python-based trading bot that connects with the Interactive Brokers' API. The bot uses a mean reversion indicator called Connor's RSI in two different modes:
 
-1.) A daily timeframe for individual stocks, buying at market open and selling before market close
+1.) A daily timeframe for individual stocks, performing buys at market open and sells before market close.
 
-2.) A shorter timeframe (5-30 minutes) for options trading. Poitions are only held for a few minutes, so it can be volatile. 
+2.) A shorter timeframe (5-30 minutes) for options trading. Positions are held only for a few minutes, making it quite volatile.
 
-The bot is automated, but user intervention is required for initial setup and for making adjustments to trading parameters. Be sure to understand the risks if you attempt to run this algorithm live.
+Although the bot is automated, users need to set it up initially and make adjustments to trading parameters as needed. Please be aware of the risks if you decide to run this algorithm live.
 
 ## Java Swing
-``Library Management System`` - A detailed project that simulates functions of a librarian. These include check-in, check out, managing customers, and looking up and maintaining books. Implements the Google Books API and a local MySQL database. 
+`Library Management System` - A comprehensive project that emulates various librarian tasks, such as checking in/out, managing customers, and searching for and maintaining books. This uses the Google Books API and a local MySQL database.
 
-This project was designed as part of a group project, but the code I wrote is clearly labeled at the top of each Java file. A more detailed description can be found under docs inside the Library Management System folder. 
+I worked on this project with a team, but the code I wrote is clearly marked at the beginning of each Java file. You can find a more detailed description under the docs inside the Library Management System folder.
 
 ## SQL / PHP
-``Sample Company Database`` - Simulates a simple company database implementing SQL and using PHP as a backend for CRUD operations.
+`Sample Company Database` - A simulation of a basic company database using SQL and PHP for performing CRUD operations in the backend.
 
 ## C++
-``WAR - Card Game`` - This is a fun C++ project where I've implemented a text implementation of the classic card game, War. It accounts for a human player and an AI opponent. Each round, the game will deal a card to each player from a virtual deck, with the player having the highest card winning the round. 
+`WAR - Card Game` - A fun C++ project in which I created a text-based version of the classic card game, War. The game features a human player and an AI opponent. Each round, the game deals a card to each player from a virtual deck, with the player having the highest card winning the round.
