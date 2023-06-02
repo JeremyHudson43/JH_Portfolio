@@ -1,5 +1,5 @@
 # Jeremy's Portfolio
-Welcome to my GitHub! I have created various programs to both enjoy and enhance my programming skills. You can find my work organized in different folders, as explained below.
+Welcome to my GitHub! I have created various programs for fun and to enhance my programming skills. You can find my work organized in different folders, as explained below.
 
 ## Python
 
